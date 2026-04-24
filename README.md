@@ -1,4 +1,4 @@
-# 💻 Infrastructure as Code & CI/CD - Github - Site Filmes 2/1
+# 💻 Github - Infrastructure as Code & CI/CD - Site Filmes 2/1
 
 ## 📌 Sobre o Projeto
 
