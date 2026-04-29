@@ -1,4 +1,4 @@
-# 💻 Github - Infrastructure as Code - Site Filmes 2/1
+# 💻 Github - Repositório Versionamento - Site Filmes 2/1
 
 ## 📌 Sobre o Projeto
 
