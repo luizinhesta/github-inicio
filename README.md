@@ -1,4 +1,4 @@
-# 💻 github-inicio
+# 💻 Github - Infrastructure as Code - Site Filmes 2/1
 
 ## 📌 Sobre o Projeto
 
@@ -6,7 +6,7 @@ Este repositório tem como objetivo demonstrar, na prática, o uso básico do **
 
 A proposta é apresentar um ambiente simples, contendo arquivos HTML e estrutura inicial, para exemplificar como versionar código, registrar alterações e organizar um projeto dentro do GitHub 🚀  
 
-![Github](imagens/imagem.jpg)
+![Github](imagens/imagem(1).jpg)
 
 ---
 
@@ -18,7 +18,45 @@ A proposta é apresentar um ambiente simples, contendo arquivos HTML e estrutura
 - Servir como base para estudos e projetos futuros  
 
 ---
+## 🏗️ Etapas do Projeto
 
+### ✅ Etapa 1 – CloudFormation (Infraestrutura como Código)
+
+Criação da infraestrutura inicial utilizando templates:
+
+✔️ **Amazon S3** – Hospedagem do site estático  
+✔️ **Amazon CloudFront** – Distribuição CDN + OAC 🔒  
+✔️ **Amazon Route 53** – Gerenciamento de domínio  
+✔️ **AWS Certificate Manager** – HTTPS 🔐  
+
+📌 Nessa etapa, toda a infraestrutura é definida via código, permitindo reuso, padronização e automação.
+
+
+### ✅ Etapa 2 – Versionamento no GitHub *(etapa atual)*
+
+Nesta fase, estou organizando o projeto para versionamento:
+
+✔️ Criação do repositório  
+✔️ Estruturação dos diretórios  
+✔️ Versionamento dos templates CloudFormation  
+✔️ Boas práticas de commits  
+
+📌 O objetivo é garantir rastreabilidade, colaboração e base para automação futura.
+
+
+### ⏳ Etapa 3 – Pipeline CI/CD *(próxima etapa)*
+### ⏳ Etapa 4 – Backend Serverless
+
+---
+
+## 🎯 Objetivo Geral
+
+Construir um projeto completo utilizando:
+
+✔️ Boas práticas de arquitetura em cloud  
+✔️ Infraestrutura como código (IaC)  
+✔️ Automação com CI/CD  
+✔️ Backend serverless escalável  
 ## ⚙️ Tecnologias Utilizadas
 
 - Git  
@@ -109,7 +147,8 @@ Este projeto está sob a licença **MIT**.
 
 **Luiz Augusto Souza**
 
-* 💼 LinkedIn: Link
-* 💻 YouTube: Link
+* 💼 Linkedin: https://www.linkedin.com/in/luiz-inhesta-341b4b311/
+
+* 💻 YouTube: https://youtu.be/ORb9VypZT3A
 
 ---
