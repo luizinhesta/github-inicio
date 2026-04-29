@@ -147,8 +147,12 @@ Este projeto está sob a licença **MIT**.
 
 **Luiz Augusto Souza**
 
+<<<<<<< HEAD
 * 💼 Linkedin: https://www.linkedin.com/in/luiz-inhesta-341b4b311/
 
+=======
+* 💼 LinkedIn: https://www.linkedin.com/in/luiz-inhesta-341b4b311/
+>>>>>>> e636af3c5ac467db4f4fe03d601eae786e01233b
 * 💻 YouTube: https://youtu.be/ORb9VypZT3A
 
 ---
